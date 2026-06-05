@@ -199,6 +199,92 @@ Yes. I would use EspoCRM for a small business because it is easy to use and prov
 
 Screenshots of the login page, dashboard, contacts module, leads module, and reports module are added in this repository.
 
+# Part 4 – AI-Assisted CRM Architecture Exploration
+
+## Functional Modules
+
+If I were building a CRM system, I would add the following modules:
+
+* Authentication
+* Contacts
+* Leads
+* Opportunities
+* Tasks
+* Reports
+
+## Database Design
+
+The CRM would require lots of database tables:
+
+* Users
+* Roles
+* Contacts
+* Leads
+* Opportunities
+* Activities
+* Tickets
+* Tasks
+
+### Bootstrap
+
+Used to create professional-looking web pages.
+
+### DataTables
+
+Used to display sortable tables.
+
+### Chart.js
+
+Used to create charts and graphs.
+
+### PHPMailer
+
+Used to send emails from the CRM application.
+
+### Composer
+
+Used to manage PHP libraries. 
+
+## Security Considerations
+
+### Authentication
+
+Users most log in before accessing the system.
+
+### Authorization
+
+Different users should have different permissions based on their roles and tasks.
+
+### Password Security
+
+Passwords should be hashed before being sent and stored in the database.
+
+### SQL Injection Prevention
+
+Prepared statements should be used to prevent SQL injection attacks.
+
+### Cross-Site Scripting (XSS)
+
+User input should be validated before displaying it.
+
+### Data Privacy
+
+Customers information should be protected and only accessible to authorized users.
+
+## MVP Proposal
+
+The first version of the CRM would include:
+
+* User login
+* Contact management
+* Lead management
+* Task tracking
+* Basic dashboard
+* Simple reports
+
+This would provide the core functionality needed for a small business CRM system.
+
+
 
 
 
