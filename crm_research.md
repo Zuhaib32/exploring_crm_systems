@@ -150,23 +150,23 @@ The information provided by Chatgpt was reliable for core conscpets and understa
 
 ### Which commercial CRM appears most popular?
 
-Salesforce appears to be the most popular commercial CRM platform. During my research, it consistently appeared as the market leader due to its large customer base, extensive feature set, and broad ecosystem of third-party integrations.
+The most popular is Salesforce which is the most popular commercial CRM platform. While researching this, it consistently showed up as the market leader probably beacuse of its large customer base. 
 
-### Which open-source CRM appears most mature?
+### Which open-source CRM appears most mature ?
 
-SuiteCRM appears to be the most mature open-source CRM solution. It has existed for many years, provides a comprehensive set of CRM features, and has a large development community supporting the platform.
+SuiteCRM appears most mature open-source CRM solution. Its been around for many years and provides a comprehensive set of CRM features.
 
 ### Which CRM would you recommend for a small business?
 
-I would recommend HubSpot CRM for a small business. Its free version, ease of use, and strong customer management features make it an attractive option for organizations with limited budgets and technical resources.
+I personally would recommend HubSpot CRM for a small business sinces it has a free version, easy use, and strong customer management features.
 
 ### Which CRM would you recommend for a large enterprise?
 
-I would recommend Salesforce for a large enterprise. Its scalability, customization capabilities, and advanced reporting tools make it suitable for organizations with complex business requirements.
+I would recommend Salesforce for a large enterprise. Its scalability, customization capabilities, and advanced reporting tools make it suitable for organizations with difficult business requirements.
 
 ### Justification
 
-The ideal CRM depends on an organization's size, budget, and business requirements. Small businesses often prioritize affordability and ease of implementation, while large enterprises require scalability, customization, security, and integration capabilities. For these reasons, HubSpot CRM is a strong choice for small businesses, while Salesforce is better suited for large organizations.
+I believe the ideal CRM depends on an organization's size and business requirements. Small businesses usually prioritize affordability and ease of implementation while large enterprises require customization, security, and integration capabilities because of this HubSpot CRM is a good choice for small businesses while Salesforce is better for large organizations.
 
 
 
