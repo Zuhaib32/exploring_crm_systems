@@ -168,6 +168,38 @@ I would recommend Salesforce for a large enterprise. Its scalability, customizat
 
 I believe the ideal CRM depends on an organization's size and business requirements. Small businesses usually prioritize affordability and ease of implementation while large enterprises require customization, security, and integration capabilities because of this HubSpot CRM is a good choice for small businesses while Salesforce is better for large organizations.
 
+# Part 3 – Open Source CRM Exploration
+
+## Selected CRM
+
+For this assignment I looked at EspoCRM, an open-source CRM system used to manage customers, and sales activities.
+
+## Installation Experience
+
+I used the EspoCRM online demo instead of downloading it. The setup was simple because I could access the system through a web browser.
+
+## Product Experience
+
+### Features That Impressed Me
+
+* Clean and easy-to-use 
+* Easy navigation
+* Contact and lead management
+
+### Features That Were Missing
+
+* Fewer advanced features than Salesforce
+* Limited integrations compared to other CRM platforms
+
+## Would I Use It?
+
+Yes. I would use EspoCRM for a small business because it is easy to use and provides the features needed to manage customers 
+
+## Screenshots
+
+Screenshots of the login page, dashboard, contacts module, leads module, and reports module are added in this repository.
+
+
 
 
 
